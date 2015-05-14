@@ -18,3 +18,4 @@ app.post('/morestuff', function(req, res) {
 });
 
 app.listen(3000);
+console.log("listening on 3000");
